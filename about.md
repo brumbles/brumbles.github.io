@@ -4,12 +4,19 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a 25 year old Systems Administrator from Aberdeen, Scotland. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Skills: Windows Server 2012R2 
+        Exchange 2010
+        AD/DNS/DHCP/GPO
+        Hyper-V
+        Sharepoint 2010
+        Lync 2013
+        Linux Administration
+        
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ben@rumbles.me](mailto:ben@rumbles.me)
